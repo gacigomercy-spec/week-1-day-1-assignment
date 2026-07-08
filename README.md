@@ -26,4 +26,4 @@ A beginner project practicing core HTML: document structure, semantic elements, 
 
 ### Class Schedule
 
-![screenshot-schedule-card](screenshot-schedule.png)
+![screenshot-schedule-card](screenshot-schedule-card.png)
