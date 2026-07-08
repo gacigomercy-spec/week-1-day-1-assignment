@@ -18,11 +18,11 @@ A beginner project practicing core HTML: document structure, semantic elements, 
 
 ### Index Page
 
-![screenshot-index-card](screenshot-index.png)
+![screenshot-index-card](screenshot-index-card.png)
 
 ### Business Card
 
-![screenshot-busness-card](screenshot-business-card.png)
+![screenshot-business-card](screenshot-business-card.png)
 
 ### Class Schedule
 
